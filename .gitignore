@@ -1,0 +1,14 @@
+/.venv
+/.vscode
+/autograd.py
+/HTML
+/myenv
+/Number.py
+/pokemon.csv
+/pyproject.toml
+/Python
+/README.md
+/Speech
+/src
+/uv.lock
+/whole.py
